@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[La historia tiene dos lados y dos interpretaciones, la de los vencedores y la de los oprimidos ]]></title>
+        <description><![CDATA[La historia tiene dos lados y dos interpretaciones, la de los vencedores y la de los oprimidos ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 14:43:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"MEXICO ENGAÑADO"</p>]]></description>
+            <link>undefinedmexico-enganado/index.html</link>
+            <guid isPermaLink="false">eab8e1a0-c6a3-4b1a-850f-fd537392e108</guid>
+            <pubDate>Mon, 02 May 2016 14:43:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
