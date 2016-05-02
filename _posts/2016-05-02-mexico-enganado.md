@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: '"MEXICO ENGAÑADO"'
-datePublished: '2016-05-02T14:43:38.870Z'
-dateModified: '2016-05-02T14:43:18.047Z'
+datePublished: '2016-05-02T21:20:34.299Z'
+dateModified: '2016-05-02T21:20:04.596Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-mexico-enganado.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-mexico-enganado.md
-published: true
 url: mexico-enganado/index.html
 _type: Article
 
