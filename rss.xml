@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[La historia tiene dos lados y dos interpretaciones, la de los vencedores y la de los oprimidos ]]></title>
         <description><![CDATA[La historia tiene dos lados y dos interpretaciones, la de los vencedores y la de los oprimidos ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/las-3-interpretaciones-de-la-historia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 14:43:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 21:20:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/las-3-interpretaciones-de-la-historia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA["MEXICO ENGAÑADO"]]></title>
             <description><![CDATA[<p>"MEXICO ENGAÑADO"</p>]]></description>
-            <link>undefinedmexico-enganado/index.html</link>
+            <link>https://thegrid.ai/las-3-interpretaciones-de-la-historia/mexico-enganado/index.html</link>
             <guid isPermaLink="false">eab8e1a0-c6a3-4b1a-850f-fd537392e108</guid>
-            <pubDate>Mon, 02 May 2016 14:43:38 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 21:20:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
