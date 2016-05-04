@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"MEXICO ENGAÑADO"'
-datePublished: '2016-05-04T23:22:00.255Z'
-dateModified: '2016-05-04T23:21:55.275Z'
+datePublished: '2016-05-04T23:37:24.831Z'
+dateModified: '2016-05-04T23:36:18.701Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-mexico-enganado.md
@@ -21,9 +21,8 @@ url: mexico-enganado/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a5f4585-5c1b-4e2d-ada5-66053aac928f.jpg)
-
 "MEXICO ENGAÑADO"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a5f4585-5c1b-4e2d-ada5-66053aac928f.jpg)
 
 Francisco Martín Moreno escribió el libro titulado "MEXICO ENGAÑADO," el cual ha sido muy interesante, pues la versión que comúnmente nos dan sobre la historia de México es una muy distinta a lo que el escritor ha descubierto en su indagaciones e investigación. Ahora veo con la lectura de este libro porque nosotros los "mestizos" tenemos problemas de identidad sin saberlo y sin entenderlo. 
 
