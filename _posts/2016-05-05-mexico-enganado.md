@@ -5,12 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: La historia sobre los sucesos que marcaron a México y lo moldearon.
-datePublished: '2016-05-05T01:25:34.216Z'
-dateModified: '2016-05-05T01:25:20.492Z'
-title: ''
+datePublished: '2016-05-05T01:34:40.491Z'
+dateModified: '2016-05-05T01:31:34.510Z'
+title: Amazon
 author:
   - name: Francisco Martin Moreno
-    url: Amazon
+    url: 'https://www.amazon.com/s/ref=dp_byline_sr_ebooks_1?ie=UTF8&text=Francisco+Mart%C3%ADn+Moreno&search-alias=digital-text&field-author=Francisco+Mart%C3%ADn+Moreno&sort=relevancerank'
+sourcePath: _posts/2016-05-05-mexico-enganado.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-mexico-enganado.md
 url: mexico-enganado/index.html
 _type: Article
 
