@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'La historia sobre los sucesos que marcaron a México y lo moldearon. Puedes comprar el libro electrónico en amazon. '
-datePublished: '2016-05-05T01:54:16.075Z'
-dateModified: '2016-05-05T01:53:57.641Z'
-title: Amazon
+description: 'La historia sobre los sucesos que marcaron a México y lo moldearon. '
+datePublished: '2016-05-05T01:56:19.519Z'
+dateModified: '2016-05-05T01:55:27.192Z'
+title: ''
 author:
   - name: Francisco Martin Moreno
     url: ''
@@ -23,6 +23,6 @@ url: mexico-enganado/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8c98bf-debc-4b1a-9d47-5199e44b36dd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b9dd044-5408-497c-8a0e-236f759ca927.jpg)
 
-La historia sobre los sucesos que marcaron a México y lo moldearon. Puedes comprar el libro electrónico en amazon.
+La historia sobre los sucesos que marcaron a México y lo moldearon.
