@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'La historia sobre los sucesos que marcaron a México y lo moldearon. Puedes comprar el libro electrónico en amazon: '
-datePublished: '2016-05-05T01:44:17.727Z'
-dateModified: '2016-05-05T01:40:21.098Z'
+datePublished: '2016-05-05T01:48:12.908Z'
+dateModified: '2016-05-05T01:47:58.892Z'
 title: Amazon
 author:
   - name: Francisco Martin Moreno
