@@ -4,12 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Un excelente libro sobre la historia real de México que no se enseña y vale la pena estudiar para conocer y entender porqué somos como somos, y porqué hacemos las cosas tal y como las hacemos, desde los altos mandos de gobierno hasta los más humildes campesinos. '
-datePublished: '2016-05-05T02:13:54.430Z'
-dateModified: '2016-05-05T02:13:34.957Z'
+description: >-
+  Un excelente libro sobre la historia real de México que no se enseña y vale la
+  pena estudiar para conocer y entender porqué somos como somos, y porqué
+  hacemos las cosas tal y como las hacemos, desde los altos mandos de gobierno
+  hasta los más humildes campesinos. 
+datePublished: '2016-06-12T17:54:03.621Z'
+dateModified: '2016-05-05T02:14:01.662Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-05-un-excelente-libro-sobre-la-historia-real-de-mexico-que-no-s.md
+sourcePath: >-
+  _posts/2016-05-05-un-excelente-libro-sobre-la-historia-real-de-mexico-que-no-s.md
 authors: []
 publisher:
   name: null
