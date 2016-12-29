@@ -23,6 +23,8 @@ analytics:
 author:
   name: Moises
   email: teme678@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/711680c9-7b9a-4efa-a0b8-677453a788ae.jpg
 name: 'La Crónica Real De La Historia '
 cta:
   domain: null
@@ -32,7 +34,8 @@ navigation:
   - name: Mi Blog
     url: 'https://moisesmt.wordpress.com/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7232b842-d814-4736-b4eb-56be2fa3be66.jpg
 title: >-
   La historia tiene dos lados y dos interpretaciones, la de los vencedores y la
   de los oprimidos 
