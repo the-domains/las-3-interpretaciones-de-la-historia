@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Mi Blog
+    url: 'https://moisesmt.wordpress.com/'
+    type: external
 favicon: null
 title: >-
   La historia tiene dos lados y dos interpretaciones, la de los vencedores y la
