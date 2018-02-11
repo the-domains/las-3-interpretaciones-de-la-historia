@@ -39,6 +39,31 @@ favicon: >-
 title: >-
   La historia tiene dos lados y dos interpretaciones, la de los vencedores y la
   de los oprimidos 
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1f8aa1b-cf4a-4c20-93ac-384a7b3d3648.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1f8aa1b-cf4a-4c20-93ac-384a7b3d3648.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Conociendo las Historias
 purpose: []
